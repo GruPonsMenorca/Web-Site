@@ -1,6 +1,6 @@
 # Mi Sitio Web Público
 
-Bienvenido/a a **Mi Sitio Web Público**. Este es un proyecto de un sitio web moderno y responsivo que presenta:
+Bienvenido/a a **GruPons Menorca**. Este es un proyecto de un sitio web moderno y responsivo que presenta:
 Una nueva manera interactuar visualmente con cada cibernauta. Ofreciendo toda la información necesaria en un corto espacio. 
 
 
@@ -19,9 +19,7 @@ Una nueva manera interactuar visualmente con cada cibernauta. Ofreciendo toda la
 
 ## Demostración
 
-Puedes ver una versión en vivo del sitio en [https://tu-sitio.com](https://tu-sitio.com).
-
-![Vista Previa del Sitio](ruta/a/una/imagen.png)
+Puedes ver una versión en vivo del sitio en (https://gruponsmenorca.github.io/).
 
 ## Características
 
@@ -51,4 +49,4 @@ Sigue los siguientes pasos para clonar y ejecutar el proyecto en tu máquina loc
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tu-usuario/tu-repositorio.git
+   git clone (https://github.com/GruPonsMenorca/Web-Site))
